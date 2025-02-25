@@ -1,7 +1,3 @@
-/**
- * @param {string} s
- * @return {number}
- */
 var romanToInt = function(s) {
     const romanStr = {
         'I': 1,
