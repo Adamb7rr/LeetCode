@@ -1,0 +1,2 @@
+1/* Write your T-SQL query statement below */
+2select tweet_id from Tweets where len(content) > 15
