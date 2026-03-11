@@ -3,4 +3,4 @@ function giveMeSomething (a) {
 }
 giveMeSomething("a")
 giveMeSomething("is cooking")
-giveMeSomething(" is cooking")
+giveMeSomething("is cooking")
